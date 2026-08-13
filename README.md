@@ -2,7 +2,7 @@
 
 THIS README ALONG WITH THE ENTIRETY OF THE SOURCE CODE WAS MADE WITH GLM 5.2 IM SORRY IF IT SAYS ANYTHING STUPID OR WRONG ALL I KNOW IS THE APP WORKS
 
-> Share your **unlimited mobile data** with other devices — without using your carrier's mobile-hotspot quota.
+> Share your **unlimited mobile data** with other devices — without using your carrier's mobile-hotspot quota, no root required!.
 
 DataNet Share turns an Android phone with unlimited cellular data into a SOCKS5 proxy gateway. Other phones, laptops, or tablets can connect over **Wi‑Fi Direct**, an existing **Wi‑Fi network**, or **USB tethering**, and route their traffic through the host phone's cellular connection. This sidesteps carrier-side hotspot caps entirely, because the host phone simply appears to be using its own cellular data — which it is.
 
