@@ -1,5 +1,7 @@
 # DataNet Share
 
+THIS README ALONG WITH THE ENTIRETY OF THE SOURCE CODE WAS MADE WITH GLM5.2 SORRY IF ITS INACCURATE OR WRONG OR SAYS SOMETHING STUPID ALL I KNOW IS THE APP WORKS
+
 Share your Android phone's mobile data with other devices — without using the carrier hotspot feature.
 
 Bypasses carrier tethering detection by using WiFi Direct (a separate radio path from the carrier hotspot) and binding upstream sockets directly to the cellular network via `Network.getSocketFactory()`. No root required.
