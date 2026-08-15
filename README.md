@@ -1,5 +1,9 @@
 # DataNet Share
 
+# IMPORTANT INFORMATION
+
+USE VERSION 3.5 ON OTHER ANDROID DEVICES YOU WANT TO RECEIVE CONNECTION ON. FOR SOME REASON 4.0 -> 4.0 SLOWS SPEEDS BUT 4.0 -> 3.5 HAS GOOD SPEEDS. USE 4.0 ON THE SENDING DEVICE AND 3.5 ON THE RECEIVING DEVICE
+
 THIS README ALONG WITH THE ENTIRETY OF THE SOURCE CODE WAS MADE WITH AI USING GLM 5.2 FOR FREE. SORRY IF IT SAYS ANYTHING STUPID OR WRONG. ALL I KNOW IS THE APP WORKS!
 
 > Share your **unlimited mobile data** with other devices — without using your carrier's hotspot quota. v4.0 brings a **native C library** and **TCP window scaling**, more than **doubling real-world throughput** to 325–400 Mbps.
