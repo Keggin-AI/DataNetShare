@@ -1,6 +1,6 @@
 # DataNet Share
 
-> **This project was built with AI assistance using GLM. The app works — sorry if the code says anything stupid.**
+> **This project was fully built with AI using GLM 5.2. The app works and that's all I know. Sorry if this readme or the code says or does anything stupid.**
 
 Share your Android phone's mobile data with other devices — without using your carrier's hotspot quota.
 
