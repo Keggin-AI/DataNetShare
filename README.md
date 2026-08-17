@@ -74,7 +74,7 @@ Creates a Wi-Fi Direct group with its own SSID and password. The sender becomes 
 
 iOS connects to the sender's Wi-Fi Direct network just like any other client, but because there's no iOS app for DataNet Share, the SOCKS5 proxy has to be set up on the iOS side using a third-party app. First, join the sender's Wi-Fi Direct network from iOS Settings → Wi-Fi using the SSID and password shown in the sender's blue card. Then:
 
-To share with an iOS device, I'd recommend using the app "Karing" it is a completely free app that supports systemwide socks5 using a VPN setup. Simply install the app, accept the prompt asking to allow the app to setup vpn profiles, go to the app settings, click add profile, click add profile link, and put this link into the link field:
+To share with an iOS device, I'd recommend using the app ["Karing"] (https://apps.apple.com/us/app/karing/id6472431552) it is a completely free app that supports systemwide socks5 using a VPN setup. Simply install the app, accept the prompt asking to allow the app to setup vpn profiles, go to the app settings, click add profile, click add profile link, and put this link into the link field:
 
 ```
 socks5://192.168.49.1:8282
